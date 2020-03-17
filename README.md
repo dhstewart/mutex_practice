@@ -44,7 +44,7 @@ session. Type `ctrl-c` to stop the app.
 Make sure port 9292 is available on localhost since the Roda app binds to that
 port.
 
-- `git clone git@github.com:hetre85/mutex_practice.git`
+- `git clone git@github.com:dhstewart/mutex_practice.git`
 - cd mutex_practice
 - make sure you're in the project root dir
 - `bundle install`
